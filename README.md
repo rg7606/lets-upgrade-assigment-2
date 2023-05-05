@@ -1,2 +1,2 @@
 # lets-upgrade-assigment-2
-my second assignment for lets upgrade.
+my second assignment for lets upgrade sql bootcamp.
